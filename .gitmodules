@@ -1,0 +1,27 @@
+[submodule "galois-smaccmpilot"]
+	path = galois-smaccmpilot
+	url = https://github.com/GaloisInc/smaccmpilot-build
+[submodule "paparazzi-hardware"]
+	path = paparazzi-hardware
+	url = https://github.com/paparazzi/paparazzi-hardware.git
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/diydrones/ardupilot.git
+[submodule "mavlink"]
+	path = mavlink
+	url = https://github.com/mavlink/mavlink.git
+[submodule "paparazzi"]
+	path = paparazzi
+	url = https://github.com/paparazzi/paparazzi
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = https://github.com/mavlink/qgroundcontrol.git
+[submodule "AeroQuad"]
+	path = AeroQuad
+	url = https://github.com/AeroQuad/AeroQuad.git
+[submodule "PX4-Hardware"]
+	path = PX4-Hardware
+	url = https://github.com/PX4/Hardware
+[submodule "PX4-HIL"]
+	path = PX4-HIL
+	url = https://github.com/PX4/HIL
