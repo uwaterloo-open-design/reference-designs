@@ -25,3 +25,30 @@
 [submodule "PX4-HIL"]
 	path = PX4-HIL
 	url = https://github.com/PX4/HIL
+[submodule "psas-launch-tower-computer.git"]
+	path = psas-launch-tower-computer.git
+	url = https://github.com/psas/launch-tower.git
+[submodule "beaglepilot"]
+	path = beaglepilot
+	url = https://github.com/BeaglePilot/beaglepilot.git
+[submodule "BeagleLogic"]
+	path = BeagleLogic
+	url = https://github.com/abhishek-kakkar/BeagleLogic.git
+[submodule "BeagleboneBlackSensorCape"]
+	path = BeagleboneBlackSensorCape
+	url = https://github.com/LeonardMH/SensorCape.git
+[submodule "beaglebone-pru-quickstep"]
+	path = beaglebone-pru-quickstep
+	url = https://github.com/hakalan/quickstep.git
+[submodule "pru-various-examples"]
+	path = pru-various-examples
+	url = https://github.com/dresco/pru_examples.git
+[submodule "beaglebone_pru_adc"]
+	path = beaglebone_pru_adc
+	url = https://github.com/pgmmpk/beaglebone_pru_adc.git
+[submodule "beagle-copter"]
+	path = beagle-copter
+	url = https://github.com/antodoms/beagle-copter.git
+[submodule "grbl"]
+	path = grbl
+	url = https://github.com/grbl/grbl.git
